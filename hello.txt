@@ -1,2 +1,6 @@
 "Hello this is my first git commit"
+<<<<<<< HEAD
 "my change"
+=======
+"adding another commit here"
+>>>>>>> ecf62971bf13c5620d0e7762713f2b82efde2293
